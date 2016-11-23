@@ -12,7 +12,6 @@ Tested up to: 4.2.2
 
 You can you to add Flights, Hotels, Vacations and Car Rentals and also can search by adding shortcode in page and posts
 
-Using this Wordpress Travel plugin, you can create, customize and add travel search boxes anywhere on your sites, thus generating commissions with Travelgrove's Affiliate program (registration needed).
 
 
 
