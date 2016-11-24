@@ -16,7 +16,7 @@ You can you to add Flights, Hotels, Vacations and Car Rentals and also can searc
 
 
 Copy one of the following shorcodes into any post inside Wordpress visual editor:
-
+Please select USA Based Cities on plugin input area like(To: Chicago, From:Austin) because it is only USA Based Api
 *[nayak_searchboxes options='{"size":"dynamic"}']*
 
 *[nayak_searchboxes options='{"size":"160x600"}']*
